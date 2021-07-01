@@ -1,0 +1,74 @@
+nav {
+  background: #a2afb4;
+  padding: 5px;
+}
+nav button {
+  background-color: #306172; /* Green */
+  border:lightslategray;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1%;
+  border-style: dotted;
+  
+  
+}
+
+.welcomemsg{
+  color: rgb(70, 136, 127);
+}
+.details {
+  color: darkolivegreen;
+}
+.image1 {
+  width: 100%;
+  height: auto;
+ 
+}
+.products {
+  width: 100%;
+  
+}
+.producttext {
+  color: rgb(14, 109, 187);
+  text-align: center;
+}
+.inst {
+  color: rgba(18, 53, 45, 0.438);
+  text-align: center;
+  
+}
+.indeximages {
+  width : 300px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.column {
+  float: left;
+  width: 31%;
+  padding: 5px;
+}
+.imagename{
+  background-color: #4346ce; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 237px;
+  
+}
+.textindividual {
+  font-size: 50px;
+}
+.image2 {
+  height: auto;
+}
